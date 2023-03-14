@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ISun": {
+      "commandName": "Project",
+      "commandLineArgs": "--cities Vilnius, Kaunas",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Developer"
+      },
+      "remoteDebugEnabled": true
+    }
+  }
+}
